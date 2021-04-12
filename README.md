@@ -1,6 +1,5 @@
 # My-Blog-Post-App
-
-### start frontend   
+ start frontend   
 ### ng serve
 <br/>
 start back server by running   
