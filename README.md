@@ -1,7 +1,7 @@
 # My-Blog-Post-App
  start frontend   
 ### ng serve
-<br/>
+
 start back server by running   
 ### npm run start:server
 
