@@ -1,6 +1,8 @@
 # My-Blog-Post-App
 
+### start frontend : ng serve
 
+### start back server by running    npm run start:server
 
 ### Login
 ![Screenshot 2021-04-12 095207](https://user-images.githubusercontent.com/49354823/114340709-c431a980-9b75-11eb-8ea2-4e48779a03a6.png)
